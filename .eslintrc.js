@@ -23,7 +23,7 @@ module.exports = {
     'import',
     'react-hooks',
     'prettier',
-    'babel-plugin-root-import',
+    //'babel-plugin-root-import',
   ],
 
   rules: {
