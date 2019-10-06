@@ -4,9 +4,15 @@
   "private": true,
   "dependencies": {
     "@rocketseat/unform": "^1.5.1",
+<<<<<<< HEAD
+=======
     "axios": "^0.19.0",
+<<<<<<< HEAD
     "date-fns": "^2.4.1",
     "date-fns-tz": "^1.0.7",
+=======
+>>>>>>> 59d6313e9d905821198953168a8faf89d6b66e8d
+>>>>>>> b255e3c5b7fbbdf6d928c6be433021e6b59a579a
     "history": "^4.10.1",
     "immer": "^4.0.0",
     "polished": "^3.4.1",
@@ -20,11 +26,14 @@
     "react-scripts": "3.1.2",
     "react-toastify": "^5.4.0",
     "reactotron-react-js": "^3.3.2",
+<<<<<<< HEAD
+=======
     "reactotron-redux": "^3.1.2",
     "reactotron-redux-saga": "^4.2.2",
     "redux": "^4.0.4",
     "redux-persist": "^6.0.0",
     "redux-saga": "^1.1.1",
+>>>>>>> 59d6313e9d905821198953168a8faf89d6b66e8d
     "styled-components": "^4.4.0",
     "yup": "^0.27.0"
   },
